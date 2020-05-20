@@ -81,8 +81,10 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel MPESA <code>wmandai/mpesa</code>
+                    Laravel MPESA 
                 </div>
+
+                <p>Demo site for Laravel MPESA package <code>wmandai/mpesa</code></p>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
